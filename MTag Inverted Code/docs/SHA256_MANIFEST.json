@@ -1,0 +1,22 @@
+{
+  "independent_python_scipy_check": {
+    "position_error_m": 1.4304896245381992e-17,
+    "residual_sum_squares": 7.199968331577524e-35,
+    "note": "Independent numerical check only, not MATLAB execution."
+  },
+  "files": {
+    "CODE_AVAILABILITY.md": "1e143615164d94802c660080fc39d1fe65d463975df6528f88a55f4a77a59035",
+    "README.md": "74e738a1fe347127fafc0a771606227d82c4f96a6aa905c6f32ea68531e47c68",
+    "LICENSE": "a017c42bdc4e96189da0b8c9a3eebda3c610e7b773ad36562d3a02bae1533d0c",
+    "examples/synthetic_field.csv": "ee841110ed826443347f914e2cd22ce32afb8bee47a95532fe2f10b8845479ba",
+    "examples/demo_synthetic.m": "c8ad40ab23579c0b7f18d5dc9f8eafc7d42b3efc9ff9c013331992037bda475b",
+    "examples/synthetic_geometry.csv": "2b8d2ccf8d8a0bd5dafd6969661d17d9ba9bfeb1d3f5aca5ef81c814426a635e",
+    "core/solve_magnetic_localization.m": "92cd32e68b3726514a0e59ff462d1449f2d32494b857dce60fd9bda12b4e45d7",
+    "core/magnetic_dipole_forward.m": "9915024d65540406ebfcc2c1136b533ea0114b09a58c4a3a535cbff769aade95",
+    "core/magnetic_dipole_residual.m": "c0dd7a11b2494fbb2f228c188b521ce413436abecf0f1314f953be6a93e0ef89",
+    "core/run_sequence_inversion.m": "8bfe8145067e7a84c7f82901344961658477bd78f8007a6ac76e65328e90d216",
+    "docs/algorithm_description.md": "8d6cd3fc712d2ea05c8d3b8c526aed6bb796c39684a7203b3b5ac177230381d0",
+    "docs/input_output_specification.md": "46d5754ab605fa4214985b7fdeccd5c3903f4610a9d503e94df1e9e258f79d05",
+    "docs/VALIDATION_REPORT.md": "acaa870b5e2dcf1a58f2618f3c0724cfcf1044babcb5fcc27412b83cb32a903d"
+  }
+}

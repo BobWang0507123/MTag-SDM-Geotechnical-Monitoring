@@ -1,0 +1,2 @@
+mesh_id,reference_mesh,steel_field_relative_L2,steel_field_relative_L2_percent,reinf_field_relative_L2,unreinf_field_relative_L2,incremental_localization_change_mm
+M3,M3b,0.0020651160986786001,0.20651160986786002,0.0016161193502646999,0.00060044219748160005,0.052308755603715298
